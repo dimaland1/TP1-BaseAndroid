@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">InterfaceSimple</string>
+    <string name="valider">Valider</string>
+    <string name="prenom">Prenom</string>
+    <string name="nom">Nom</string>
+    <string name="age">Age</string>
+    <string name="numero">Numero</string>
+    <string name="competence">competence</string>
+    <string name="faire_du_bricolage">Faire du bricolage</string>
+    <string name="faire_de_la_cuisine">Faire de la cuisine</string>
+    <string name="faire_le_m_nage">Faire le ménage</string>
+    <string name="monter_les_meubles">Monter les meubles</string>
+    <string name="faire_de_la_m_canique">Faire de la mécanique</string>
+    <string name="changer_de_language">changer de langue</string>
+    <string name="agenda" translatable="false">Agenda</string>
+    <string name="horaire_train" translatable="false">horaire de train</string>
+    <string name="Interface_simple_xml" translatable="false">Interface simple (xml)</string>
+    <string name="Interface_simple_java" translatable="false">Interface simple (java)</string>
+    <string name="num_ro_de_t_l_phone">Numéro de téléphone</string>
+    <string name="appeler">Appeler</string>
+    <string name="rechercher" translatable="false">Rechercher</string>
+    <string name="departure_city" translatable="false">ville de depart</string>
+    <string name="arrival_city" translatable="false">ville d\'arrivée</string>
+    <string name="num_ro">Numéro</string>
+    <string name="logo_telephone">logo_telephone</string>
+    <string name="verifier_vos_donnees">VERIFIER VOS DONNEES</string>
+    <string name="ok">Ok</string>
+    <string name="retour">retour</string>
+    <string name="title_activity_calendar" translatable="false">CalendarActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label" translatable="false">First Fragment</string>
+    <string name="second_fragment_label" translatable="false">Second Fragment</string>
+    <string name="next" translatable="false">Next</string>
+    <string name="previous" translatable="false">Previous</string>
+    <string name="ajouter_un_evenement" translatable="false">Ajouter un evenement</string>
+    <string name="hello_world" translatable="false">Hello world</string>
+</resources>

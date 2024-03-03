@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SimpleInterface</string>
+    <string name="valider">Validate</string>
+    <string name="prenom">First Name</string>
+    <string name="nom">Last Name</string>
+    <string name="age">Age</string>
+    <string name="numero">Number</string>
+    <string name="competence">Skill</string>
+    <string name="faire_du_bricolage">Do DIY</string>
+    <string name="faire_de_la_cuisine">Do Cooking</string>
+    <string name="faire_le_m_nage">Do Cleaning</string>
+    <string name="monter_les_meubles">Assemble Furniture</string>
+    <string name="faire_de_la_m_canique">Do Mechanics</string>
+    <string name="changer_de_language">Change Language</string>
+    <string name="num_ro_de_t_l_phone">Phone number</string>
+    <string name="appeler">Call</string>
+    <string name="logo_telephone">logo_telephone</string>
+    <string name="verifier_vos_donnees">VERIFY</string>
+    <string name="ok">Ok</string>
+    <string name="retour">retour</string>
+    <string name="num_ro">Number</string>
+</resources>
