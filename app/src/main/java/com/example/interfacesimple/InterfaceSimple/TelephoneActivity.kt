@@ -1,4 +1,4 @@
-package com.example.interfacesimple.InterfaceSimple1
+package com.example.interfacesimple.InterfaceSimple
 
 import android.content.Intent
 import android.net.Uri

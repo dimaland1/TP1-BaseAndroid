@@ -22,11 +22,6 @@
             android:name=".calendrier.CalendrierActivity"
             android:exported="false" />
         <activity
-            android:name=".CalendarActivity"
-            android:exported="false"
-            android:label="@string/title_activity_calendar"
-            android:theme="@style/Theme.InterfaceSimple" />
-        <activity
             android:name=".train.TrainActivity"
             android:exported="false" />
         <activity

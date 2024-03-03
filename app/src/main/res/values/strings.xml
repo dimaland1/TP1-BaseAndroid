@@ -15,7 +15,7 @@
     <string name="agenda" translatable="false">Agenda</string>
     <string name="horaire_train" translatable="false">horaire de train</string>
     <string name="Interface_simple_xml" translatable="false">Interface simple (xml)</string>
-    <string name="Interface_simple_java" translatable="false">Interface simple (java)</string>
+    <string name="Interface_simple_java" translatable="false">Interface simple (Kotlin)</string>
     <string name="num_ro_de_t_l_phone">Numéro de téléphone</string>
     <string name="appeler">Appeler</string>
     <string name="rechercher" translatable="false">Rechercher</string>
